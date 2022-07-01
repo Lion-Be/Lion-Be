@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi and welcome to my GitHub page 👋
+
+I'm a PhD Candidate at the University of Mannheim and Data Scientist working with various data science tools and methods for a variety of different purposes. I mainly code in R [#rstats](https://twitter.com/hashtag/rstats?src=hashtag_click), with an eager eye on Python. :fire: Some of my projects include:  
 
 <!--
 **Lion-Be/Lion-Be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
