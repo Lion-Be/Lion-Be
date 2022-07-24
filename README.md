@@ -12,7 +12,6 @@ I'm a final year PhD Candidate at the University of Mannheim and Data Scientist 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/lion-be/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=GitHub)](https://github.com/Lion-Be/Lion-Be)
-[![Website](https://img.shields.io/badge/Personal-Website-708090?style=for-the-badge&logo=Hugo)](https://lionbehrens.netlify.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=Twitter)](https://twitter.com/LionBehrens)
 
 <!--
