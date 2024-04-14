@@ -4,7 +4,6 @@ I'm a Data Scientist working with various data science tools,  statistical metho
 - :wrench: Developing an [unsupervised machine learning method](https://github.com/Lion-Be/undervoting_irregularities) to quantify the degree of systematic manipulation in fine-graded disaggregated election results from undervoting irregularities
 - :chart_with_upwards_trend: Evaluating [supervised machine learning models](https://github.com/Lion-Be/Probabilistic-Detection-of-Election-Fraud-Using-Machine-Learning-Algorithms) for the statistical detection of election fraud
 - :bookmark_tabs: Programming a [natural language processing pipeline](https://github.com/Lion-Be/C7-Subproject-GER-NED) that automatically implements parliamentary amendment proposals into proposed government legislation
-- :movie_camera: [Massive Open Online Course](https://github.com/Lion-Be/MOOC-Intro-R) Introduction to R for the University of Mannheim (video lectures, live coding, coding exercises...)
 - :computer: Some smaller programming exercises that caught my interest throughout the last years such as programming a [Gibbs sampler](https://github.com/Lion-Be/gibbs) for Bayesian inference, constructing [OLS solutions](https://github.com/Lion-Be/linreg) using matrix algebra or visualizing the [power of a t-test](https://github.com/Lion-Be/Visualize-the-power-of-a-t-test)
 
 **You can find out more about my projects and get connected with me here:**
